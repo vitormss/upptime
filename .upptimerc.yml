@@ -1,6 +1,7 @@
 # Change these first
 owner: vitormss # Your GitHub organization or username, where this repository lives
 repo: upptime # The name of this repository
+user-agent: vitormss
 
 sites:
   - name: UTAD
