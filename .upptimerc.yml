@@ -20,7 +20,8 @@ sites:
   #  ipv6: true
 
 status-website:
-  baseUrl: /upptime # where "repo" is your repository name
+  cname: utad.pt # Custom domain CNAME
+  #baseUrl: /repo # where "repo" is your repository name
   name: UTAD
 
 # Upptime also supports notifications, assigning issues, and more
