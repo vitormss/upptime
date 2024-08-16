@@ -5,6 +5,14 @@ repo: upptime # The name of this repository
 sites:
   - name: UTAD
     url: https://www.utad.pt
+  - name: UTAD Notícias
+    url: https://noticias.utad.pt
+  - name: UTAD Eventos
+    url: https://eventos.utad.pt
+  - name: UTAD Intranet
+    url: https://intranet.utad.pt
+  - name: UTAD SIGA
+    url: https://siga.utad.pt
   #- name: Google
   #  url: https://www.google.com
   #- name: Wikipedia
