@@ -32,5 +32,7 @@ status-website:
   baseUrl: /upptime # where "repo" is your repository name
   name: Check Web Site Status
 
+delay: 2000 # 2 seconds
+
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
