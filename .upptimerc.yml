@@ -9,8 +9,8 @@ sites:
     url: https://noticias.utad.pt
   - name: UTAD Eventos
     url: https://eventos.utad.pt
-  - name: UTAD Intranet
-    url: https://intranet.utad.pt
+  - name: UTAD GescompX
+    url: https://gescompx.utad.pt
   - name: UTAD SIGA
     url: https://siga.utad.pt
   #- name: Google
