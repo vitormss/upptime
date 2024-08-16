@@ -4,9 +4,9 @@
     "url": "https://www.utad.pt",
     "icon": "https://icons.duckduckgo.com/ip3/www.utad.pt.ico",
     "slug": "utad",
-    "status": "up",
+    "status": "down",
     "uptime": "99.69%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "99.68%",
     "uptimeMonth": "99.69%",
     "uptimeYear": "99.69%",
@@ -16,6 +16,7 @@
     "timeMonth": 2104,
     "timeYear": 2104,
     "dailyMinutesDown": {
+      "2024-08-16": 0,
       "2024-08-14": 16,
       "2024-08-13": 8,
       "2024-08-09": 8
@@ -26,36 +27,40 @@
     "url": "https://noticias.utad.pt",
     "icon": "https://icons.duckduckgo.com/ip3/noticias.utad.pt.ico",
     "slug": "utad-noticias",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.86%",
+    "uptimeDay": "99.86%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.86%",
+    "uptimeYear": "99.86%",
     "time": 2762,
     "timeDay": 2762,
     "timeWeek": 2762,
     "timeMonth": 2762,
     "timeYear": 2762,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "UTAD Eventos",
     "url": "https://eventos.utad.pt",
     "icon": "https://icons.duckduckgo.com/ip3/eventos.utad.pt.ico",
     "slug": "utad-eventos",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.91%",
+    "uptimeDay": "99.91%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.91%",
+    "uptimeYear": "99.91%",
     "time": 2924,
     "timeDay": 2924,
     "timeWeek": 2924,
     "timeMonth": 2924,
     "timeYear": 2924,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-16": 0
+    }
   },
   {
     "name": "UTAD GescompX",
